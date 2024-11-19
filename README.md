@@ -22,7 +22,7 @@ This script processes multiple JSON files to remove specified parameters and sav
     - `parameters_to_remove`: List of parameters you want to remove from the JSON files.
 3. Run the script:
     ```bash
-    python script_name.py
+    python3 script_name.py
     ```
 4. Check the `output_directory` for the updated JSON files.
 
